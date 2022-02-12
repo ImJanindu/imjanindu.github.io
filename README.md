@@ -1,2 +1,2 @@
-# https://imjanindu.github.io
+# https://jj47.ml
 Simple portfolio website of @ImJanindu
